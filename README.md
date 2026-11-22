@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1067-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-599-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-735-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-274-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--21-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1070-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-603-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-736-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-276-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--22-555?style=for-the-badge)
 
 </div>
 
@@ -58,7 +58,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Amanda The Adventurer | [▶ gn-math.github.io](https://gn-math.github.io/web-port/amanda-the-adventurer/) | [📦 genizy/web-port/tree/main/amanda-the-adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) |
 | Amazing Alex | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/amazing-alex) |  |
 | ⭐ American McGee’s Alice| [▶ https://yselimarslan98-dot.github.io/alice-web/](https://github.com/yselimarslan98-dot/alice-web) |  |
-| Ambidextro |  | [📦 chromecrash/Ambidextro-browser-port](https://github.com/chromecrash/Ambidextro-browser-port) |
+| ⭐ Ambidextro | [▶ ambidextro.surge.sh](https://ambidextro.surge.sh/) | [📦 chromecrash/Ambidextro-browser-port](https://github.com/chromecrash/Ambidextro-browser-port) |
 | ⭐ Among Us | [▶ wasm.rip](https://wasm.rip/files/amongus/index.html) | [📦 wasmdotrip/AmongUsPort](https://github.com/wasmdotrip/AmongUsPort) |
 | Anarch |  | [📦 drummyfish/anarch](https://gitlab.com/drummyfish/anarch) |
 | ⭐ Andy's Apple Farm | [▶ gn-math.github.io](https://gn-math.github.io/web-port/andys-apple-farm/) | [📦 genizy/web-port/tree/main/andys-apple-farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) |
@@ -172,7 +172,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Caesar III |  | [📦 bvschaik/julius](https://github.com/bvschaik/julius) |
 | Caesar III (Augustus) |  | [📦 Keriew/augustus](https://github.com/Keriew/augustus) |
 | Call of Duty Web Collection | [▶ cod-webports.pages.dev](https://cod-webports.pages.dev/) |  |
-| ⭐ Call of Duty: Black Ops Zombies | [▶ vel.gg](http://vel.gg/bo1z) | [📦 MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled) |
+| Call of Duty: Black Ops Zombies | Unavailable (HTTP 451) | [📦 MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled) |
 | ⭐ Call of Duty: Black Ops Zombies (2) | [▶ vel.gg](https://vel.gg/bsz) | [📦 AllanLotta/bo1-zombies-coop](https://github.com/AllanLotta/bo1-zombies-coop) |
 | Call of Duty: Modern Warfare 2 | [▶ ovz-game-production.up.railway.app](https://ovz-game-production.up.railway.app) |  |
 | Call of Mini: Dino Hunter (Revival) | [▶ comdh.krig.games](https://comdh.krig.games/) |  |
@@ -200,7 +200,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Cheesed Up 1.3.1 |  | [📦 burnedpopcorn/Cheesed-Up-1.3.1-Web-Port](https://github.com/burnedpopcorn/Cheesed-Up-1.3.1-Web-Port) |
 | Chip's Challenge (chipdx) |  | [📦 CasualX/chipdx](https://github.com/CasualX/chipdx) |
 | ⭐ Christmas Massacre | [▶ gn-math.dev](https://gn-math.dev/?id=734) | [📦 web-ports/christmas-massacre](https://github.com/web-ports/christmas-massacre) |
-| Chromium B.S.U. |  | [📦 midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) |
+| ⭐ Chromium B.S.U. | [▶ midzer.de](https://midzer.de/wasm/chromium-bsu/) | [📦 midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) |
 | Circus Linux! |  | [📦 ICTylor/circuslinux](https://github.com/ICTylor/circuslinux) |
 | ⭐ Class of '09 | [▶ gn-math.github.io](https://gn-math.github.io/web-port/class-of-09/) | [📦 genizy/web-port/tree/main/class-of-09](https://github.com/genizy/web-port/tree/main/class-of-09) |
 | Class of '09: The Flip Side |  | [📦 AlexBoops/TFS](https://github.com/AlexBoops/TFS) |
@@ -508,7 +508,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="h"></a>
 
-## H <sub>· 47</sub>
+## H <sub>· 48</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -539,6 +539,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Heroes of Might and magic 3 for Web |  | [📦 caiiiycuk/vcmi-wasm](https://github.com/caiiiycuk/vcmi-wasm) |
 | ⭐ Heroes of Might and Magic II | [▶ midzer.de](https://midzer.de/wasm/heroes2/) | [📦 midzer/fheroes2](https://github.com/midzer/fheroes2) |
 | Heroes of Might and Magic II (fheroes2, rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/fheroes2weblast/index.html) |  |
+| ⭐ Heroes of Might and Magic IV (HoMM4Recomp) | [▶ gamerecomp.github.io](https://gamerecomp.github.io/HoMM4Recomp/) | [📦 GameRecomp/HoMM4Recomp](https://github.com/GameRecomp/HoMM4Recomp) |
 | Hexen II | [▶ dos.zone](https://dos.zone/hexen-2-fteqw/) |  |
 | Hexen II (Hexenwail) | [▶ hexenwail.github.io](https://hexenwail.github.io/hexenwail/) |  |
 | Hill Climb Racing |  | [📦 NotRexed/HillClimbRacingPort](https://github.com/NotRexed/HillClimbRacingPort) |
@@ -758,7 +759,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="n"></a>
 
-## N <sub>· 37</sub>
+## N <sub>· 38</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -777,6 +778,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online) | [▶ nfsmwonline.com](https://nfsmwonline.com) |  |
+| Need for Speed: Most Wanted (Most Wanted Revived) | [▶ nfsmw-web.xyz](https://nfsmw-web.xyz/) |  |
 | ⭐ Need for Speed: Most Wanted (nfsmw-webport) | [▶ iker3329.github.io](https://iker3329.github.io/nfsmw-webport/) | [📦 Iker3329/nfsmw-webport](https://github.com/Iker3329/nfsmw-webport) |
 | Need for Speed: ProStreet (NFSProStreet_online) |  | [📦 uvindusl/NFSProStreet_online](https://github.com/uvindusl/NFSProStreet_online) |
 | Need for Speed: Underground (nfsu1web) |  | [📦 yurasmetanka/nfsu1web](https://github.com/yurasmetanka/nfsu1web) |
@@ -978,7 +980,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 152</sub>
+## S <sub>· 153</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1083,6 +1085,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | SSX 3 (ssx3-decomp) |  | [📦 andersfischernielsen/ssx3-decomp](https://github.com/andersfischernielsen/ssx3-decomp) |
 | Star Command (SSI, browser remake) |  | [📦 DrEvil-TitaniumHelix/star-command-remake](https://github.com/DrEvil-TitaniumHelix/star-command-remake) |
 | Star Fox Adventures | [▶ foxhollow.dev](https://foxhollow.dev/) |  |
+| Star Wars Battlefront II (SWBF2O) | [▶ swbf2o.com](https://swbf2o.com/) |  |
 | Star Wars Jedi Knight Dark Forces 2 | [▶ rgc.zone](https://rgc.zone/ports/oswjkdf2/index.html) |  |
 | Star Wars Jedi Knight: Dark Forces II |  | [📦 shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) |
 | Star Wars Jedi Knight: Jedi Academy | [▶ jk.q3js.com](https://jk.q3js.com) |  |
