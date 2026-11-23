@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1070-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-603-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-736-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-276-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--22-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1073-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-605-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-739-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-278-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--23-555?style=for-the-badge)
 
 </div>
 
@@ -45,7 +45,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="a"></a>
 
-## A <sub>· 35</sub>
+## A <sub>· 36</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -78,6 +78,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Arthur's Nightmare | [▶ gn-math.dev](https://gn-math.dev/?id=645) |  |
 | Arx Fatalis (Arxwasm Demo) | [▶ wasm.continuation-labs.com](https://wasm.continuation-labs.com/arxdemo/) |  |
 | Arx Fatalis (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/arxweb/index.html) |  |
+| ⭐ Astral Siege | [▶ cel23010997.github.io](https://cel23010997.github.io/astral-siege/) | [📦 Cel23010997/astral-siege](https://github.com/Cel23010997/astral-siege) |
 | AstroMenace |  | [📦 midzer/astromenace](https://github.com/midzer/astromenace) |
 | Asylum |  | [📦 GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) |
 | ⭐ Atlantis: The Lost Tales | [▶ ripleyxlr8.github.io](https://ripleyxlr8.github.io/atlantis-native/) | [📦 ripleyXLR8/atlantis-native](https://github.com/ripleyXLR8/atlantis-native) |
@@ -349,13 +350,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="e"></a>
 
-## E <sub>· 8</sub>
+## E <sub>· 9</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | ⭐ EA Sports Cricket 07 | [▶ cricket07.dhaiwat.com](https://cricket07.dhaiwat.com/) | [📦 Dhaiwat10/cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) |
 | Eaglercraft | [▶ rgc.zone](https://rgc.zone/ports/eaglecarftg/index.html) |  |
 | Egg Fried Rice |  |  |
+| ⭐ The Elder Scrolls Adventures: Redguard (Cyrus) | [▶ michidk.github.io](https://michidk.github.io/cyrus/game/) | [📦 michidk/cyrus](https://github.com/michidk/cyrus) |
 | ⭐ The Elder Scrolls III: Morrowind (OpenMW) | [▶ morrowind.virtastic.app](https://morrowind.virtastic.app/) | [📦 Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) |
 | Empty Clip |  | [📦 midzer/empty-clip](https://github.com/midzer/empty-clip) |
 | Endacopia |  | [📦 linkawaken1979-alt/endacopia-](https://github.com/linkawaken1979-alt/endacopia-) |
@@ -980,7 +982,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 153</sub>
+## S <sub>· 154</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1098,6 +1100,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Stick with It | [▶ gn-math.dev](https://gn-math.dev/?id=502) | [📦 slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
 | Street Fighter Anniversary Collection | [▶ streetfighteranniversary.online](https://streetfighteranniversary.online/) |  |
 | Street Fighter III: 3rd Strike | [▶ streetfighter3.online](https://streetfighter3.online/) |  |
+| Stunt Car Racer (Stunt Car Remake) |  | [📦 ptitSeb/stuntcarremake](https://github.com/ptitSeb/stuntcarremake) |
 | Stunts (PlayStunts) | [▶ playstunts.com](https://playstunts.com/) |  |
 | Stunts (stunts-hd) |  | [📦 mr-finster/stunts-hd](https://github.com/mr-finster/stunts-hd) |
 | Subway Surfers: Las Vegas |  | [📦 Toastiest64/Las-Vegas](https://github.com/Toastiest64/Las-Vegas) |
