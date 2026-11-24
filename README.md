@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1073-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-605-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-739-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-278-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--23-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1074-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-605-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-740-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-278-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--24-555?style=for-the-badge)
 
 </div>
 
@@ -982,7 +982,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 154</sub>
+## S <sub>· 155</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1130,6 +1130,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Super Mario War |  | [📦 mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) |
 | Super Mario Zombies | [▶ smz.fun](https://smz.fun/) |  |
 | Super Monkey Ball | [▶ monkeyball-online.pages.dev](https://monkeyball-online.pages.dev/) |  |
+| Super Monkey Ball Jr. (supermonkeyballjr-recomp) |  | [📦 gusdslara/supermonkeyballjr-recomp](https://github.com/gusdslara/supermonkeyballjr-recomp) |
 | Super Smash Bros. (n64hub recomp) |  | [📦 n64hub/super-smash-bros-recomp](https://github.com/n64hub/super-smash-bros-recomp) |
 | ⭐ Super Smash Bros. (smash.fun) | [▶ smash.fun](https://smash.fun/) | [📦 turtlesoupy/opensmash](https://github.com/turtlesoupy/opensmash) |
 | Super Smash Bros. Melee (melee-pc) |  | [📦 999sian/melee-pc](https://github.com/999sian/melee-pc) |
